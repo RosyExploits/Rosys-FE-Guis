@@ -1,2 +1,2 @@
-# Rosys-FE-Guis
-A script i made
+# Rosys FE Guis
+This #SCRIPT WAS MADE BY ROSY
